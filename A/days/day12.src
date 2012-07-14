@@ -1,0 +1,10 @@
+[contest]
+contestName = "Параллель A, день 12"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 17 августа 2010"
+output = day12
+
+[problems]
+kina = kina
+palindrome = palindrome
+square = square

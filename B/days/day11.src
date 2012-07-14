@@ -1,0 +1,12 @@
+[contest]
+contestName = "Параллель B, день 11"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Орлёнок, ?? августа 2010"
+output = day11
+
+[problems]
+path = path
+paths = paths
+dominoes = dominoes
+pairs = pairs
+

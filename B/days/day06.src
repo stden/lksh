@@ -1,0 +1,12 @@
+[contest]
+contestName = "Параллель B, день 06"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Орлёнок, 8 августа 2010"
+output = day06
+
+[problems]
+next = next
+sum = sum
+kth = kth
+sum2 = sum2
+

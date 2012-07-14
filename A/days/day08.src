@@ -1,0 +1,9 @@
+[contest]
+contestName = "Параллель A, день 08"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 11 августа 2010"
+output = day08
+
+[problems]
+dominoes = dominoes
+molecule = molecule

@@ -1,0 +1,12 @@
+[contest]
+contestName = "Параллель A, день 05"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 7 августа 2010"
+output = day05
+
+[problems]
+brides = brides
+caves = caves
+caves_easy = caves_easy
+evacuate = evacuate
+rbtrees = rbtrees

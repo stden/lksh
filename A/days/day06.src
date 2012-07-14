@@ -1,0 +1,10 @@
+[contest]
+contestName = "Параллель A, день 06"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 8 августа 2010"
+output = day06
+
+[problems]
+flow0 = flow0
+flow2 = flow2
+taxi = taxi

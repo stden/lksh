@@ -1,0 +1,17 @@
+\documentclass[11pt,a4paper,oneside,twocolumn]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[english,russian]{babel}
+\usepackage[russian]{olymp}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb,epigraph,import}
+
+\renewcommand{\t}{\texttt}
+\renewcommand{\le}{\leqslant}
+\newcommand{\s}[1]{<<\texttt{#1}>>}
+
+\newcommand{\addProblem}[2]{%
+  \import{../exam-practice/#1/statement/}{#2.tex}%
+}
+

@@ -1,0 +1,11 @@
+[contest]
+contestName = "Параллель A, день 07"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 10 августа 2010"
+output = day07
+
+[problems]
+decomposition = decomposition
+hackers = hackers
+initiation = initiation
+ripper = ripper

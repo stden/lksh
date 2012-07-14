@@ -1,0 +1,24 @@
+%\documentclass[12pt,a4paper,oneside,landscape,twocolumn]{article}
+\documentclass[11pt,a4paper,oneside,twocolumn]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[english,russian]{babel}
+\usepackage[russian]{olymp}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb,epigraph,import}
+%\usepackage{txfonts}
+
+\renewcommand{\t}{\texttt}
+\renewcommand{\le}{\leqslant}
+
+%\binoppenalty=10000
+%\relpenalty=10000
+%\exhyphenpenalty=10000
+
+\newcommand{\addProblem}[2]{%
+  \import{../problems/#1/statement/}{#2.tex}%
+%  \vfill
+}
+%\def\prob#1{\input ../../problems/#1/statement/#1.tex}
+

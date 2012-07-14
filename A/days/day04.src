@@ -1,0 +1,12 @@
+[contest]
+contestName = "Параллель A, день 04"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 6 августа 2010"
+output = day04
+
+[problems]
+lucky = lucky
+rect_online = rect_online
+rect_online_easy = rect_online_easy
+sum2 = sum2
+sum2_easy = sum2_easy

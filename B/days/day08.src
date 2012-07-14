@@ -1,0 +1,11 @@
+[contest]
+contestName = "Параллель B, день 08"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Орлёнок, 11 августа 2010"
+output = day08
+
+[problems]
+parenthr = parenthr
+parenth2 = parenth2
+html = html
+ladder = ladder

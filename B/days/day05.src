@@ -1,0 +1,11 @@
+[contest]
+contestName = "Параллель B, день 05"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Орлёнок, 7 августа 2010"
+output = day05
+
+[problems]
+painter = painter
+sparse = sparse
+tree = tree
+

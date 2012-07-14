@@ -1,0 +1,13 @@
+[contest]
+contestName = "Параллель A, день 11"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 16 августа 2010"
+output = day11
+
+[problems]
+common = common
+common_easy = common_easy
+nenokku = nenokku
+nenokku_easy = nenokku_easy
+substr = substr
+substr_easy = substr_easy

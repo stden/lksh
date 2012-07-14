@@ -1,0 +1,12 @@
+[contest]
+contestName = "Параллель A, день 03"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 5 августа 2010"
+output = day03
+
+[problems]
+magic = magic
+magic_easy = magic_easy
+movetofront = movetofront
+movetofront_easy = movetofront_easy
+tree = tree

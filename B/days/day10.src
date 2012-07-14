@@ -1,0 +1,11 @@
+[contest]
+contestName = "Параллель B, день 10"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Орлёнок, 12 августа 2010"
+output = day10
+
+[problems]
+cutting = cutting
+distance = distance
+island2 = island2
+unionday = unionday

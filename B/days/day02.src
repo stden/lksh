@@ -1,0 +1,12 @@
+[contest]
+contestName = "Параллель B, день 02"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Орлёнок, 4 августа 2010"
+output = day02
+
+[problems]
+topsort = topsort
+ancestor = ancestor
+avia = avia
+condense2 = condense2
+
