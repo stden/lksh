@@ -1,0 +1,11 @@
+[contest]
+contestName = "Параллель B, день 09"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Орлёнок, 12 августа 2010"
+output = day09
+
+[problems]
+aquarium = aquarium
+barns = barns
+boolean = boolean
+network = network

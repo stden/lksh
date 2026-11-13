@@ -1,0 +1,13 @@
+[contest]
+contestName = "Параллель A, день 01"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 3 августа 2010"
+output = day01
+
+[problems]
+permutation = permutation
+permutation_easy = permutation_easy
+prosto = prosto
+windows = windows
+windows_easy = windows_easy
+

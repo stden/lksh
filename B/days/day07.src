@@ -1,0 +1,10 @@
+[contest]
+contestName = "Параллель B, день 07"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Орлёнок, 10 августа 2010"
+output = day07
+
+[problems]
+movetofront = movetofront
+rmq = rmq
+swapper = swapper

@@ -1,0 +1,11 @@
+[contest]
+contestName = "Параллель A, день 09"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 12 августа 2010"
+output = day09
+
+[problems]
+refrain = refrain
+refrain_easy = refrain_easy
+spell = spell
+suffix = suffix

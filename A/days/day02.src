@@ -1,0 +1,12 @@
+[contest]
+contestName = "Параллель A, день 02"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 4 августа 2010"
+output = day02
+
+[problems]
+cutting = cutting
+lca = lca
+lca_easy = lca_easy
+lca_rmq = lca_rmq
+lca_rmq_easy = lca_rmq_easy

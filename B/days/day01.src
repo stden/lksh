@@ -1,0 +1,11 @@
+[contest]
+contestName = "Параллель B, день 01"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Орлёнок, 3 августа 2010"
+output = day01
+
+[problems]
+deques = deques
+right = right
+inverse = inverse
+

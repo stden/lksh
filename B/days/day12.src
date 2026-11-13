@@ -1,0 +1,12 @@
+[contest]
+contestName = "Параллель B, день 12"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Орлёнок, ?? августа 2010"
+output = day12
+
+[problems]
+bacon = bacon
+basis = basis
+cubes = cubes
+substr3 = substr3
+

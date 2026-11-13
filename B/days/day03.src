@@ -1,0 +1,10 @@
+[contest]
+contestName = "Параллель B, день 03"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Орлёнок, 5 августа 2010"
+output = day03
+
+[problems]
+bridges = bridges
+points = points
+post = post

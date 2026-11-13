@@ -1,0 +1,12 @@
+[contest]
+contestName = "Параллель A, день 10"
+contestLocation = "Летняя Компьютерная Школа"
+contestDate = "Саратовская обл, г. Маркс, 13 августа 2010"
+output = day10
+
+[problems]
+cyclic = cyclic
+cyclic_easy = cyclic_easy
+fraction = fraction
+towers = towers
+towers_easy = towers_easy
